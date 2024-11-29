@@ -1,0 +1,2053 @@
+Social_SGNet_CVAE model is initialized
+Total number of parameters: 6791365
+DAIR
+args.eth_root =  data/DAIR
+args.data_root =  dair
+DAIR
+DAIR
+Train DataLoader - Batch Size: 1, Num Workers: 4
+Val DataLoader - Batch Size: 1, Num Workers: 4
+Test DataLoader - Batch Size: 1, Num Workers: 4
+Number of validation samples: 41
+Number of test samples: 40
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 1 	 Goal loss: 5.8407	  CVAE loss: 3.8393	 KLD loss: 0.0612153853	 Total: 9.7412
+Total valid scenes: 93
+Test Loss: 6.4702
+Total valid scenes: 92
+Test Loss: 6.4041
+ADE_08: 0.142459;  FDE_08: 0.204213;  ADE_12: 0.199166;   FDE_12: 0.307134
+
+Best model with ADE_08: 0.1425 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_1.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 2 	 Goal loss: 4.3039	  CVAE loss: 2.3488	 KLD loss: 0.0224439473	 Total: 6.6751
+Total valid scenes: 93
+Test Loss: 6.4434
+Total valid scenes: 92
+Test Loss: 6.4246
+ADE_08: 0.130658;  FDE_08: 0.190880;  ADE_12: 0.181646;   FDE_12: 0.272461
+
+Best model with ADE_08: 0.1307 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_2.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 3 	 Goal loss: 3.9157	  CVAE loss: 2.1835	 KLD loss: 0.0244812920	 Total: 6.1237
+Total valid scenes: 93
+Test Loss: 6.1067
+Total valid scenes: 92
+Test Loss: 5.8989
+ADE_08: 0.121628;  FDE_08: 0.163578;  ADE_12: 0.167584;   FDE_12: 0.240616
+
+Best model with ADE_08: 0.1216 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_3.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 4 	 Goal loss: 4.0877	  CVAE loss: 2.2129	 KLD loss: 0.0301883077	 Total: 6.3308
+Total valid scenes: 93
+Test Loss: 5.4205
+Total valid scenes: 92
+Test Loss: 5.5879
+ADE_08: 0.117317;  FDE_08: 0.160534;  ADE_12: 0.159099;   FDE_12: 0.212270
+
+Best model with ADE_08: 0.1173 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_4.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 5 	 Goal loss: 3.5685	  CVAE loss: 1.9592	 KLD loss: 0.0244160922	 Total: 5.5521
+Total valid scenes: 93
+Test Loss: 5.9652
+Total valid scenes: 92
+Test Loss: 5.8400
+ADE_08: 0.112218;  FDE_08: 0.152413;  ADE_12: 0.155414;   FDE_12: 0.220961
+
+Best model with ADE_08: 0.1122 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_5.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 6 	 Goal loss: 3.7043	  CVAE loss: 1.9844	 KLD loss: 0.0255353595	 Total: 5.7142
+Total valid scenes: 93
+Test Loss: 5.3128
+Total valid scenes: 92
+Test Loss: 5.6402
+ADE_08: 0.113526;  FDE_08: 0.143751;  ADE_12: 0.152742;   FDE_12: 0.186042
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_6.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 7 	 Goal loss: 3.5810	  CVAE loss: 2.0043	 KLD loss: 0.0258936470	 Total: 5.6112
+Total valid scenes: 93
+Test Loss: 5.0920
+Total valid scenes: 92
+Test Loss: 5.1367
+ADE_08: 0.108490;  FDE_08: 0.139429;  ADE_12: 0.143914;   FDE_12: 0.180583
+
+Best model with ADE_08: 0.1085 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_7.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 8 	 Goal loss: 3.6095	  CVAE loss: 1.9951	 KLD loss: 0.0245595629	 Total: 5.6292
+Total valid scenes: 93
+Test Loss: 5.1781
+Total valid scenes: 92
+Test Loss: 4.9465
+ADE_08: 0.110279;  FDE_08: 0.155330;  ADE_12: 0.153913;   FDE_12: 0.203364
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_8.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 9 	 Goal loss: 3.5818	  CVAE loss: 1.9600	 KLD loss: 0.0261526754	 Total: 5.5679
+Total valid scenes: 93
+Test Loss: 5.1517
+Total valid scenes: 92
+Test Loss: 5.1056
+ADE_08: 0.105535;  FDE_08: 0.131832;  ADE_12: 0.140041;   FDE_12: 0.187097
+
+Best model with ADE_08: 0.1055 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_9.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 10 	 Goal loss: 3.4248	  CVAE loss: 1.8941	 KLD loss: 0.0254701344	 Total: 5.3443
+Total valid scenes: 93
+Test Loss: 5.1960
+Total valid scenes: 92
+Test Loss: 4.9937
+ADE_08: 0.109493;  FDE_08: 0.146560;  ADE_12: 0.150653;   FDE_12: 0.204441
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_10.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 11 	 Goal loss: 3.4363	  CVAE loss: 1.8673	 KLD loss: 0.0242764452	 Total: 5.3278
+Total valid scenes: 93
+Test Loss: 4.9038
+Total valid scenes: 92
+Test Loss: 4.9682
+ADE_08: 0.105466;  FDE_08: 0.142810;  ADE_12: 0.147034;   FDE_12: 0.193538
+
+Best model with ADE_08: 0.1055 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_11.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 12 	 Goal loss: 3.2251	  CVAE loss: 1.7458	 KLD loss: 0.0256921451	 Total: 4.9965
+Total valid scenes: 93
+Test Loss: 4.8916
+Total valid scenes: 92
+Test Loss: 4.7843
+ADE_08: 0.106406;  FDE_08: 0.144391;  ADE_12: 0.149054;   FDE_12: 0.208714
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_12.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 13 	 Goal loss: 3.4083	  CVAE loss: 1.8850	 KLD loss: 0.0267798086	 Total: 5.3201
+Total valid scenes: 93
+Test Loss: 5.0705
+Total valid scenes: 92
+Test Loss: 4.6499
+ADE_08: 0.104568;  FDE_08: 0.136301;  ADE_12: 0.143987;   FDE_12: 0.197098
+
+Best model with ADE_08: 0.1046 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_13.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 14 	 Goal loss: 3.4071	  CVAE loss: 1.8666	 KLD loss: 0.0288378128	 Total: 5.3025
+Total valid scenes: 93
+Test Loss: 4.8957
+Total valid scenes: 92
+Test Loss: 4.6958
+ADE_08: 0.106721;  FDE_08: 0.143847;  ADE_12: 0.147303;   FDE_12: 0.212474
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_14.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 15 	 Goal loss: 3.2971	  CVAE loss: 1.7974	 KLD loss: 0.0271347857	 Total: 5.1217
+Total valid scenes: 93
+Test Loss: 4.7008
+Total valid scenes: 92
+Test Loss: 4.6294
+ADE_08: 0.102853;  FDE_08: 0.134615;  ADE_12: 0.144002;   FDE_12: 0.210760
+
+Best model with ADE_08: 0.1029 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_15.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 16 	 Goal loss: 3.3506	  CVAE loss: 1.8367	 KLD loss: 0.0270570405	 Total: 5.2144
+Total valid scenes: 93
+Test Loss: 4.7275
+Total valid scenes: 92
+Test Loss: 4.7075
+ADE_08: 0.102425;  FDE_08: 0.139476;  ADE_12: 0.143939;   FDE_12: 0.205057
+
+Best model with ADE_08: 0.1024 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_16.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 17 	 Goal loss: 3.2605	  CVAE loss: 1.7942	 KLD loss: 0.0262652053	 Total: 5.0809
+Total valid scenes: 93
+Test Loss: 4.7178
+Total valid scenes: 92
+Test Loss: 4.6142
+ADE_08: 0.100380;  FDE_08: 0.124970;  ADE_12: 0.135692;   FDE_12: 0.168619
+
+Best model with ADE_08: 0.1004 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_17.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 18 	 Goal loss: 3.1378	  CVAE loss: 1.6845	 KLD loss: 0.0252433753	 Total: 4.8475
+Total valid scenes: 93
+Test Loss: 4.9586
+Total valid scenes: 92
+Test Loss: 4.9608
+ADE_08: 0.100074;  FDE_08: 0.132005;  ADE_12: 0.140283;   FDE_12: 0.177265
+
+Best model with ADE_08: 0.1001 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_18.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 19 	 Goal loss: 3.1166	  CVAE loss: 1.6855	 KLD loss: 0.0273271232	 Total: 4.8295
+Total valid scenes: 93
+Test Loss: 4.5426
+Total valid scenes: 92
+Test Loss: 4.5468
+ADE_08: 0.098159;  FDE_08: 0.124089;  ADE_12: 0.132250;   FDE_12: 0.179725
+
+Best model with ADE_08: 0.0982 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_19.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 20 	 Goal loss: 3.0741	  CVAE loss: 1.6590	 KLD loss: 0.0234557996	 Total: 4.7565
+Total valid scenes: 93
+Test Loss: 4.6147
+Total valid scenes: 92
+Test Loss: 4.5309
+ADE_08: 0.098713;  FDE_08: 0.127057;  ADE_12: 0.133962;   FDE_12: 0.176969
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_20.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 21 	 Goal loss: 3.0071	  CVAE loss: 1.6479	 KLD loss: 0.0218085325	 Total: 4.6768
+Total valid scenes: 93
+Test Loss: 4.6289
+Total valid scenes: 92
+Test Loss: 4.5696
+ADE_08: 0.103665;  FDE_08: 0.133897;  ADE_12: 0.141972;   FDE_12: 0.186190
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_21.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 22 	 Goal loss: 3.1487	  CVAE loss: 1.7260	 KLD loss: 0.0247204988	 Total: 4.8994
+Total valid scenes: 93
+Test Loss: 4.5889
+Total valid scenes: 92
+Test Loss: 4.6872
+ADE_08: 0.100127;  FDE_08: 0.138706;  ADE_12: 0.141148;   FDE_12: 0.191476
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_22.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 23 	 Goal loss: 3.1253	  CVAE loss: 1.6951	 KLD loss: 0.0253006685	 Total: 4.8457
+Total valid scenes: 93
+Test Loss: 4.5157
+Total valid scenes: 92
+Test Loss: 4.4995
+ADE_08: 0.099239;  FDE_08: 0.131680;  ADE_12: 0.135241;   FDE_12: 0.176285
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_23.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 24 	 Goal loss: 3.1443	  CVAE loss: 1.6969	 KLD loss: 0.0252653537	 Total: 4.8665
+Total valid scenes: 93
+Test Loss: 4.6746
+Total valid scenes: 92
+Test Loss: 4.4758
+ADE_08: 0.093647;  FDE_08: 0.115043;  ADE_12: 0.129922;   FDE_12: 0.168612
+
+Best model with ADE_08: 0.0936 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_24.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 25 	 Goal loss: 3.0251	  CVAE loss: 1.6979	 KLD loss: 0.0250374782	 Total: 4.7480
+Total valid scenes: 93
+Test Loss: 4.6136
+Total valid scenes: 92
+Test Loss: 4.4497
+ADE_08: 0.099446;  FDE_08: 0.117357;  ADE_12: 0.130899;   FDE_12: 0.160929
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_25.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 26 	 Goal loss: 3.0223	  CVAE loss: 1.6747	 KLD loss: 0.0219843650	 Total: 4.7189
+Total valid scenes: 93
+Test Loss: 4.5595
+Total valid scenes: 92
+Test Loss: 4.4476
+ADE_08: 0.096249;  FDE_08: 0.121965;  ADE_12: 0.133792;   FDE_12: 0.175132
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_26.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 27 	 Goal loss: 2.9032	  CVAE loss: 1.5750	 KLD loss: 0.0229118756	 Total: 4.5011
+Total valid scenes: 93
+Test Loss: 4.5603
+Total valid scenes: 92
+Test Loss: 4.4870
+ADE_08: 0.093970;  FDE_08: 0.121137;  ADE_12: 0.130314;   FDE_12: 0.173307
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_27.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 28 	 Goal loss: 3.0266	  CVAE loss: 1.6515	 KLD loss: 0.0242794733	 Total: 4.7024
+Total valid scenes: 93
+Test Loss: 4.6134
+Total valid scenes: 92
+Test Loss: 4.5403
+ADE_08: 0.101387;  FDE_08: 0.115816;  ADE_12: 0.134517;   FDE_12: 0.176859
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_28.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 29 	 Goal loss: 3.0152	  CVAE loss: 1.6669	 KLD loss: 0.0263725363	 Total: 4.7084
+Total valid scenes: 93
+Test Loss: 4.4749
+Total valid scenes: 92
+Test Loss: 4.3167
+ADE_08: 0.096012;  FDE_08: 0.123194;  ADE_12: 0.131041;   FDE_12: 0.169671
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_29.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 30 	 Goal loss: 3.0855	  CVAE loss: 1.6677	 KLD loss: 0.0254375785	 Total: 4.7786
+Total valid scenes: 93
+Test Loss: 4.6754
+Total valid scenes: 92
+Test Loss: 4.4685
+ADE_08: 0.097711;  FDE_08: 0.124784;  ADE_12: 0.135812;   FDE_12: 0.188316
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_30.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 31 	 Goal loss: 3.0513	  CVAE loss: 1.6622	 KLD loss: 0.0225329447	 Total: 4.7361
+Total valid scenes: 93
+Test Loss: 4.5630
+Total valid scenes: 92
+Test Loss: 4.3194
+ADE_08: 0.093094;  FDE_08: 0.117090;  ADE_12: 0.127592;   FDE_12: 0.164558
+
+Best model with ADE_08: 0.0931 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_31.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 32 	 Goal loss: 3.0590	  CVAE loss: 1.6470	 KLD loss: 0.0243771097	 Total: 4.7304
+Total valid scenes: 93
+Test Loss: 4.4788
+Total valid scenes: 92
+Test Loss: 4.3228
+ADE_08: 0.094319;  FDE_08: 0.116855;  ADE_12: 0.130091;   FDE_12: 0.168511
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_32.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 33 	 Goal loss: 3.0509	  CVAE loss: 1.6330	 KLD loss: 0.0253221226	 Total: 4.7092
+Total valid scenes: 93
+Test Loss: 4.3809
+Total valid scenes: 92
+Test Loss: 4.2156
+ADE_08: 0.090200;  FDE_08: 0.109258;  ADE_12: 0.122330;   FDE_12: 0.156553
+
+Best model with ADE_08: 0.0902 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_33.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 34 	 Goal loss: 2.8922	  CVAE loss: 1.5900	 KLD loss: 0.0233736638	 Total: 4.5055
+Total valid scenes: 93
+Test Loss: 4.5603
+Total valid scenes: 92
+Test Loss: 4.3033
+ADE_08: 0.094906;  FDE_08: 0.116432;  ADE_12: 0.129246;   FDE_12: 0.170094
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_34.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 35 	 Goal loss: 2.9683	  CVAE loss: 1.5918	 KLD loss: 0.0245745754	 Total: 4.5847
+Total valid scenes: 93
+Test Loss: 4.4862
+Total valid scenes: 92
+Test Loss: 4.5108
+ADE_08: 0.092142;  FDE_08: 0.122057;  ADE_12: 0.127002;   FDE_12: 0.165704
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_35.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 36 	 Goal loss: 2.8574	  CVAE loss: 1.5565	 KLD loss: 0.0216077241	 Total: 4.4356
+Total valid scenes: 93
+Test Loss: 4.4747
+Total valid scenes: 92
+Test Loss: 4.3861
+ADE_08: 0.097346;  FDE_08: 0.122188;  ADE_12: 0.134397;   FDE_12: 0.171838
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_36.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 37 	 Goal loss: 2.7857	  CVAE loss: 1.5294	 KLD loss: 0.0204930126	 Total: 4.3356
+Total valid scenes: 93
+Test Loss: 4.4940
+Total valid scenes: 92
+Test Loss: 4.3164
+ADE_08: 0.093270;  FDE_08: 0.118126;  ADE_12: 0.128587;   FDE_12: 0.166639
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_37.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 38 	 Goal loss: 3.0980	  CVAE loss: 1.6774	 KLD loss: 0.0275003228	 Total: 4.8028
+Total valid scenes: 93
+Test Loss: 4.4703
+Total valid scenes: 92
+Test Loss: 4.2361
+ADE_08: 0.089038;  FDE_08: 0.111568;  ADE_12: 0.121440;   FDE_12: 0.148040
+
+Best model with ADE_08: 0.0890 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_38.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 39 	 Goal loss: 2.8807	  CVAE loss: 1.5719	 KLD loss: 0.0233610449	 Total: 4.4760
+Total valid scenes: 93
+Test Loss: 4.3736
+Total valid scenes: 92
+Test Loss: 4.2439
+ADE_08: 0.090006;  FDE_08: 0.118227;  ADE_12: 0.127890;   FDE_12: 0.173520
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_39.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 40 	 Goal loss: 2.8737	  CVAE loss: 1.5898	 KLD loss: 0.0244652076	 Total: 4.4880
+Total valid scenes: 93
+Test Loss: 4.5995
+Total valid scenes: 92
+Test Loss: 4.4422
+ADE_08: 0.096900;  FDE_08: 0.130031;  ADE_12: 0.135496;   FDE_12: 0.190644
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_40.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 41 	 Goal loss: 3.0229	  CVAE loss: 1.6375	 KLD loss: 0.0228807345	 Total: 4.6833
+Total valid scenes: 93
+Test Loss: 4.6565
+Total valid scenes: 92
+Test Loss: 4.4923
+ADE_08: 0.095618;  FDE_08: 0.124404;  ADE_12: 0.132741;   FDE_12: 0.181584
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_41.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 42 	 Goal loss: 2.9483	  CVAE loss: 1.6079	 KLD loss: 0.0261324973	 Total: 4.5823
+Total valid scenes: 93
+Test Loss: 4.3506
+Total valid scenes: 92
+Test Loss: 4.2180
+ADE_08: 0.088969;  FDE_08: 0.110217;  ADE_12: 0.121565;   FDE_12: 0.155822
+
+Best model with ADE_08: 0.0890 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_42.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 43 	 Goal loss: 3.0275	  CVAE loss: 1.6368	 KLD loss: 0.0231743876	 Total: 4.6875
+Total valid scenes: 93
+Test Loss: 4.4347
+Total valid scenes: 92
+Test Loss: 4.2562
+ADE_08: 0.091780;  FDE_08: 0.111904;  ADE_12: 0.124658;   FDE_12: 0.153857
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_43.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 44 	 Goal loss: 2.8810	  CVAE loss: 1.5614	 KLD loss: 0.0228893750	 Total: 4.4653
+Total valid scenes: 93
+Test Loss: 4.4213
+Total valid scenes: 92
+Test Loss: 4.2468
+ADE_08: 0.099140;  FDE_08: 0.128271;  ADE_12: 0.134967;   FDE_12: 0.173717
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_44.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 45 	 Goal loss: 2.9230	  CVAE loss: 1.5956	 KLD loss: 0.0234206087	 Total: 4.5421
+Total valid scenes: 93
+Test Loss: 4.4549
+Total valid scenes: 92
+Test Loss: 4.4901
+ADE_08: 0.096723;  FDE_08: 0.127169;  ADE_12: 0.133277;   FDE_12: 0.173976
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_45.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 46 	 Goal loss: 2.8572	  CVAE loss: 1.5610	 KLD loss: 0.0232213973	 Total: 4.4414
+Total valid scenes: 93
+Test Loss: 4.4385
+Total valid scenes: 92
+Test Loss: 4.2406
+ADE_08: 0.090347;  FDE_08: 0.109323;  ADE_12: 0.122741;   FDE_12: 0.158418
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_46.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 47 	 Goal loss: 2.9484	  CVAE loss: 1.6188	 KLD loss: 0.0258265228	 Total: 4.5930
+Total valid scenes: 93
+Test Loss: 4.2380
+Total valid scenes: 92
+Test Loss: 4.1604
+ADE_08: 0.090462;  FDE_08: 0.113803;  ADE_12: 0.122114;   FDE_12: 0.154060
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_47.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 48 	 Goal loss: 2.9617	  CVAE loss: 1.5785	 KLD loss: 0.0242397825	 Total: 4.5644
+Total valid scenes: 93
+Test Loss: 4.4544
+Total valid scenes: 92
+Test Loss: 4.3613
+ADE_08: 0.087857;  FDE_08: 0.108188;  ADE_12: 0.119486;   FDE_12: 0.151694
+
+Best model with ADE_08: 0.0879 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_48.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 49 	 Goal loss: 2.7887	  CVAE loss: 1.5229	 KLD loss: 0.0220624191	 Total: 4.3336
+Total valid scenes: 93
+Test Loss: 4.4018
+Total valid scenes: 92
+Test Loss: 4.4616
+ADE_08: 0.087084;  FDE_08: 0.102393;  ADE_12: 0.121888;   FDE_12: 0.163591
+
+Best model with ADE_08: 0.0871 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_49.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 50 	 Goal loss: 2.9781	  CVAE loss: 1.6391	 KLD loss: 0.0257273090	 Total: 4.6430
+Total valid scenes: 93
+Test Loss: 4.3448
+Total valid scenes: 92
+Test Loss: 4.1995
+ADE_08: 0.090376;  FDE_08: 0.110269;  ADE_12: 0.121557;   FDE_12: 0.152181
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_50.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 51 	 Goal loss: 2.8264	  CVAE loss: 1.5464	 KLD loss: 0.0218176549	 Total: 4.3946
+Total valid scenes: 93
+Test Loss: 4.2664
+Total valid scenes: 92
+Test Loss: 4.1473
+ADE_08: 0.087824;  FDE_08: 0.108770;  ADE_12: 0.120555;   FDE_12: 0.144740
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_51.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 52 	 Goal loss: 2.8201	  CVAE loss: 1.5870	 KLD loss: 0.0239837674	 Total: 4.4311
+Total valid scenes: 93
+Test Loss: 4.3758
+Total valid scenes: 92
+Test Loss: 4.1540
+ADE_08: 0.086837;  FDE_08: 0.099431;  ADE_12: 0.115686;   FDE_12: 0.143979
+
+Best model with ADE_08: 0.0868 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_52.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 53 	 Goal loss: 2.8354	  CVAE loss: 1.5561	 KLD loss: 0.0235672297	 Total: 4.4151
+Total valid scenes: 93
+Epoch    53: reducing learning rate of group 0 to 1.0000e-04.
+Test Loss: 4.4997
+Total valid scenes: 92
+Test Loss: 4.2428
+ADE_08: 0.092622;  FDE_08: 0.115644;  ADE_12: 0.121725;   FDE_12: 0.146983
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_53.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 54 	 Goal loss: 2.8055	  CVAE loss: 1.5522	 KLD loss: 0.0247593029	 Total: 4.3824
+Total valid scenes: 93
+Test Loss: 4.1758
+Total valid scenes: 92
+Test Loss: 4.0297
+ADE_08: 0.085985;  FDE_08: 0.109795;  ADE_12: 0.116564;   FDE_12: 0.138692
+
+Best model with ADE_08: 0.0860 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_54.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 55 	 Goal loss: 2.7040	  CVAE loss: 1.5048	 KLD loss: 0.0220216130	 Total: 4.2308
+Total valid scenes: 93
+Test Loss: 4.1702
+Total valid scenes: 92
+Test Loss: 4.0329
+ADE_08: 0.088896;  FDE_08: 0.110443;  ADE_12: 0.122863;   FDE_12: 0.157756
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_55.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 56 	 Goal loss: 2.6579	  CVAE loss: 1.4678	 KLD loss: 0.0215570534	 Total: 4.1473
+Total valid scenes: 93
+Test Loss: 4.0903
+Total valid scenes: 92
+Test Loss: 4.0224
+ADE_08: 0.085490;  FDE_08: 0.105534;  ADE_12: 0.119484;   FDE_12: 0.156749
+
+Best model with ADE_08: 0.0855 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_56.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 57 	 Goal loss: 2.6776	  CVAE loss: 1.4578	 KLD loss: 0.0221995027	 Total: 4.1576
+Total valid scenes: 93
+Test Loss: 4.0897
+Total valid scenes: 92
+Test Loss: 4.0076
+ADE_08: 0.086592;  FDE_08: 0.113851;  ADE_12: 0.121546;   FDE_12: 0.152816
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_57.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 58 	 Goal loss: 2.8285	  CVAE loss: 1.5435	 KLD loss: 0.0252321997	 Total: 4.3972
+Total valid scenes: 93
+Test Loss: 4.0715
+Total valid scenes: 92
+Test Loss: 3.9600
+ADE_08: 0.085254;  FDE_08: 0.110492;  ADE_12: 0.118170;   FDE_12: 0.148382
+
+Best model with ADE_08: 0.0853 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_58.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 59 	 Goal loss: 2.7696	  CVAE loss: 1.5155	 KLD loss: 0.0250001086	 Total: 4.3101
+Total valid scenes: 93
+Test Loss: 4.0643
+Total valid scenes: 92
+Test Loss: 4.0064
+ADE_08: 0.081769;  FDE_08: 0.099771;  ADE_12: 0.111027;   FDE_12: 0.138922
+
+Best model with ADE_08: 0.0818 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_59.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 60 	 Goal loss: 2.7436	  CVAE loss: 1.4742	 KLD loss: 0.0239563066	 Total: 4.2418
+Total valid scenes: 93
+Test Loss: 4.0275
+Total valid scenes: 92
+Test Loss: 3.9242
+ADE_08: 0.081205;  FDE_08: 0.103399;  ADE_12: 0.113250;   FDE_12: 0.141563
+
+Best model with ADE_08: 0.0812 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_60.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 61 	 Goal loss: 2.5867	  CVAE loss: 1.4124	 KLD loss: 0.0199033072	 Total: 4.0190
+Total valid scenes: 93
+Test Loss: 4.0520
+Total valid scenes: 92
+Test Loss: 3.9613
+ADE_08: 0.086118;  FDE_08: 0.107618;  ADE_12: 0.120688;   FDE_12: 0.164419
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_61.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 62 	 Goal loss: 2.5983	  CVAE loss: 1.4381	 KLD loss: 0.0222257648	 Total: 4.0586
+Total valid scenes: 93
+Test Loss: 4.0543
+Total valid scenes: 92
+Test Loss: 3.9484
+ADE_08: 0.086406;  FDE_08: 0.111034;  ADE_12: 0.119514;   FDE_12: 0.146791
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_62.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 63 	 Goal loss: 2.6288	  CVAE loss: 1.4410	 KLD loss: 0.0246480613	 Total: 4.0945
+Total valid scenes: 93
+Test Loss: 4.0363
+Total valid scenes: 92
+Test Loss: 3.9350
+ADE_08: 0.081622;  FDE_08: 0.101007;  ADE_12: 0.114409;   FDE_12: 0.143313
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_63.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 64 	 Goal loss: 2.8708	  CVAE loss: 1.5243	 KLD loss: 0.0265064383	 Total: 4.4217
+Total valid scenes: 93
+Test Loss: 4.0466
+Total valid scenes: 92
+Test Loss: 3.9225
+ADE_08: 0.082502;  FDE_08: 0.100665;  ADE_12: 0.112870;   FDE_12: 0.146478
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_64.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 65 	 Goal loss: 2.8093	  CVAE loss: 1.5126	 KLD loss: 0.0243877831	 Total: 4.3462
+Total valid scenes: 93
+Test Loss: 4.0583
+Total valid scenes: 92
+Test Loss: 3.9760
+ADE_08: 0.084514;  FDE_08: 0.106826;  ADE_12: 0.116712;   FDE_12: 0.144459
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_65.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 66 	 Goal loss: 2.6175	  CVAE loss: 1.4483	 KLD loss: 0.0206511578	 Total: 4.0865
+Total valid scenes: 93
+Test Loss: 4.0202
+Total valid scenes: 92
+Test Loss: 3.9250
+ADE_08: 0.083399;  FDE_08: 0.104953;  ADE_12: 0.113097;   FDE_12: 0.137122
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_66.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 67 	 Goal loss: 2.5963	  CVAE loss: 1.4421	 KLD loss: 0.0210671323	 Total: 4.0595
+Total valid scenes: 93
+Test Loss: 4.0218
+Total valid scenes: 92
+Test Loss: 3.9622
+ADE_08: 0.084242;  FDE_08: 0.105022;  ADE_12: 0.118056;   FDE_12: 0.152447
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_67.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 68 	 Goal loss: 2.5661	  CVAE loss: 1.4068	 KLD loss: 0.0196560104	 Total: 3.9926
+Total valid scenes: 93
+Test Loss: 4.0239
+Total valid scenes: 92
+Test Loss: 3.9103
+ADE_08: 0.081376;  FDE_08: 0.103470;  ADE_12: 0.111802;   FDE_12: 0.131272
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_68.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 69 	 Goal loss: 2.6730	  CVAE loss: 1.4697	 KLD loss: 0.0210999223	 Total: 4.1638
+Total valid scenes: 93
+Test Loss: 4.0109
+Total valid scenes: 92
+Test Loss: 3.8933
+ADE_08: 0.081522;  FDE_08: 0.102007;  ADE_12: 0.113162;   FDE_12: 0.140756
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_69.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 70 	 Goal loss: 2.6809	  CVAE loss: 1.4783	 KLD loss: 0.0247736001	 Total: 4.1840
+Total valid scenes: 93
+Test Loss: 3.9840
+Total valid scenes: 92
+Test Loss: 3.9246
+ADE_08: 0.081069;  FDE_08: 0.097168;  ADE_12: 0.111716;   FDE_12: 0.138613
+
+Best model with ADE_08: 0.0811 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_70.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 71 	 Goal loss: 2.6255	  CVAE loss: 1.4471	 KLD loss: 0.0215175747	 Total: 4.0941
+Total valid scenes: 93
+Test Loss: 4.0052
+Total valid scenes: 92
+Test Loss: 3.9295
+ADE_08: 0.085418;  FDE_08: 0.102953;  ADE_12: 0.116024;   FDE_12: 0.143603
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_71.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 72 	 Goal loss: 2.7915	  CVAE loss: 1.5266	 KLD loss: 0.0247898415	 Total: 4.3429
+Total valid scenes: 93
+Test Loss: 4.0368
+Total valid scenes: 92
+Test Loss: 3.9175
+ADE_08: 0.081273;  FDE_08: 0.102316;  ADE_12: 0.112371;   FDE_12: 0.138370
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_72.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 73 	 Goal loss: 2.5534	  CVAE loss: 1.3941	 KLD loss: 0.0195908928	 Total: 3.9672
+Total valid scenes: 93
+Test Loss: 3.9952
+Total valid scenes: 92
+Test Loss: 3.8946
+ADE_08: 0.079779;  FDE_08: 0.101670;  ADE_12: 0.110453;   FDE_12: 0.135434
+
+Best model with ADE_08: 0.0798 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_73.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 74 	 Goal loss: 2.6852	  CVAE loss: 1.4748	 KLD loss: 0.0229713211	 Total: 4.1830
+Total valid scenes: 93
+Test Loss: 3.9933
+Total valid scenes: 92
+Test Loss: 3.8591
+ADE_08: 0.087042;  FDE_08: 0.116106;  ADE_12: 0.119701;   FDE_12: 0.151461
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_74.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 75 	 Goal loss: 2.5733	  CVAE loss: 1.4072	 KLD loss: 0.0224491039	 Total: 4.0029
+Total valid scenes: 93
+Test Loss: 3.9998
+Total valid scenes: 92
+Test Loss: 3.8815
+ADE_08: 0.086493;  FDE_08: 0.110877;  ADE_12: 0.117956;   FDE_12: 0.146837
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_75.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 76 	 Goal loss: 2.5580	  CVAE loss: 1.3749	 KLD loss: 0.0213729746	 Total: 3.9542
+Total valid scenes: 93
+Epoch    76: reducing learning rate of group 0 to 2.0000e-05.
+Test Loss: 4.0227
+Total valid scenes: 92
+Test Loss: 3.9104
+ADE_08: 0.086125;  FDE_08: 0.112243;  ADE_12: 0.117868;   FDE_12: 0.143308
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_76.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 77 	 Goal loss: 2.5380	  CVAE loss: 1.3945	 KLD loss: 0.0198239707	 Total: 3.9523
+Total valid scenes: 93
+Test Loss: 3.9979
+Total valid scenes: 92
+Test Loss: 3.8815
+ADE_08: 0.085271;  FDE_08: 0.110459;  ADE_12: 0.118400;   FDE_12: 0.148934
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_77.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 78 	 Goal loss: 2.7407	  CVAE loss: 1.4736	 KLD loss: 0.0245854640	 Total: 4.2389
+Total valid scenes: 93
+Test Loss: 3.9797
+Total valid scenes: 92
+Test Loss: 3.8533
+ADE_08: 0.080436;  FDE_08: 0.102589;  ADE_12: 0.111473;   FDE_12: 0.133871
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_78.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 79 	 Goal loss: 2.5867	  CVAE loss: 1.4299	 KLD loss: 0.0218118815	 Total: 4.0384
+Total valid scenes: 93
+Test Loss: 3.9569
+Total valid scenes: 92
+Test Loss: 3.8604
+ADE_08: 0.080930;  FDE_08: 0.102299;  ADE_12: 0.115107;   FDE_12: 0.141478
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_79.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 80 	 Goal loss: 2.5472	  CVAE loss: 1.3864	 KLD loss: 0.0209569075	 Total: 3.9545
+Total valid scenes: 93
+Test Loss: 3.9688
+Total valid scenes: 92
+Test Loss: 3.8351
+ADE_08: 0.078655;  FDE_08: 0.097978;  ADE_12: 0.107435;   FDE_12: 0.126292
+
+Best model with ADE_08: 0.0787 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_80.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 81 	 Goal loss: 2.5534	  CVAE loss: 1.3931	 KLD loss: 0.0218857799	 Total: 3.9685
+Total valid scenes: 93
+Test Loss: 3.9506
+Total valid scenes: 92
+Test Loss: 3.8504
+ADE_08: 0.083323;  FDE_08: 0.106168;  ADE_12: 0.113982;   FDE_12: 0.142902
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_81.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 82 	 Goal loss: 2.5198	  CVAE loss: 1.3937	 KLD loss: 0.0212965676	 Total: 3.9348
+Total valid scenes: 93
+Test Loss: 3.9509
+Total valid scenes: 92
+Test Loss: 3.8443
+ADE_08: 0.081797;  FDE_08: 0.101593;  ADE_12: 0.114612;   FDE_12: 0.146978
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_82.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 83 	 Goal loss: 2.6073	  CVAE loss: 1.4332	 KLD loss: 0.0214696549	 Total: 4.0620
+Total valid scenes: 93
+Test Loss: 3.9524
+Total valid scenes: 92
+Test Loss: 3.8564
+ADE_08: 0.080472;  FDE_08: 0.099682;  ADE_12: 0.108541;   FDE_12: 0.134503
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_83.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 84 	 Goal loss: 2.5962	  CVAE loss: 1.4356	 KLD loss: 0.0214871528	 Total: 4.0532
+Total valid scenes: 93
+Test Loss: 3.9686
+Total valid scenes: 92
+Test Loss: 3.8499
+ADE_08: 0.080643;  FDE_08: 0.100659;  ADE_12: 0.112998;   FDE_12: 0.138577
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_84.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 85 	 Goal loss: 2.6485	  CVAE loss: 1.4535	 KLD loss: 0.0230922395	 Total: 4.1251
+Total valid scenes: 93
+Test Loss: 3.9693
+Total valid scenes: 92
+Test Loss: 3.8574
+ADE_08: 0.078724;  FDE_08: 0.097061;  ADE_12: 0.112088;   FDE_12: 0.143064
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_85.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 86 	 Goal loss: 2.6361	  CVAE loss: 1.4521	 KLD loss: 0.0216614701	 Total: 4.1099
+Total valid scenes: 93
+Test Loss: 3.9639
+Total valid scenes: 92
+Test Loss: 3.8439
+ADE_08: 0.079361;  FDE_08: 0.099075;  ADE_12: 0.111409;   FDE_12: 0.138382
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_86.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 87 	 Goal loss: 2.6184	  CVAE loss: 1.4289	 KLD loss: 0.0222495013	 Total: 4.0695
+Total valid scenes: 93
+Epoch    87: reducing learning rate of group 0 to 4.0000e-06.
+Test Loss: 3.9615
+Total valid scenes: 92
+Test Loss: 3.8364
+ADE_08: 0.079825;  FDE_08: 0.101546;  ADE_12: 0.112144;   FDE_12: 0.141673
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_87.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 88 	 Goal loss: 2.7561	  CVAE loss: 1.4979	 KLD loss: 0.0251012782	 Total: 4.2791
+Total valid scenes: 93
+Test Loss: 3.9569
+Total valid scenes: 92
+Test Loss: 3.8525
+ADE_08: 0.081058;  FDE_08: 0.103890;  ADE_12: 0.112745;   FDE_12: 0.135772
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_88.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 89 	 Goal loss: 2.5420	  CVAE loss: 1.4032	 KLD loss: 0.0206390235	 Total: 3.9658
+Total valid scenes: 93
+Test Loss: 3.9408
+Total valid scenes: 92
+Test Loss: 3.8409
+ADE_08: 0.079547;  FDE_08: 0.098185;  ADE_12: 0.110384;   FDE_12: 0.135044
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_89.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 90 	 Goal loss: 2.5862	  CVAE loss: 1.4297	 KLD loss: 0.0216349895	 Total: 4.0375
+Total valid scenes: 93
+Test Loss: 3.9677
+Total valid scenes: 92
+Test Loss: 3.8487
+ADE_08: 0.080368;  FDE_08: 0.098319;  ADE_12: 0.111824;   FDE_12: 0.143320
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_90.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 91 	 Goal loss: 2.5822	  CVAE loss: 1.4223	 KLD loss: 0.0218992674	 Total: 4.0264
+Total valid scenes: 93
+Test Loss: 3.9514
+Total valid scenes: 92
+Test Loss: 3.8565
+ADE_08: 0.080520;  FDE_08: 0.100897;  ADE_12: 0.111425;   FDE_12: 0.139905
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_91.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 92 	 Goal loss: 2.6901	  CVAE loss: 1.4591	 KLD loss: 0.0226480466	 Total: 4.1719
+Total valid scenes: 93
+Test Loss: 3.9353
+Total valid scenes: 92
+Test Loss: 3.8506
+ADE_08: 0.081826;  FDE_08: 0.107523;  ADE_12: 0.115571;   FDE_12: 0.136424
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_92.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 93 	 Goal loss: 2.6514	  CVAE loss: 1.4589	 KLD loss: 0.0221739989	 Total: 4.1325
+Total valid scenes: 93
+Test Loss: 3.9567
+Total valid scenes: 92
+Test Loss: 3.8344
+ADE_08: 0.081625;  FDE_08: 0.103729;  ADE_12: 0.113860;   FDE_12: 0.134881
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_93.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 94 	 Goal loss: 2.7566	  CVAE loss: 1.5129	 KLD loss: 0.0277309491	 Total: 4.2972
+Total valid scenes: 93
+Test Loss: 3.9458
+Total valid scenes: 92
+Test Loss: 3.8461
+ADE_08: 0.079881;  FDE_08: 0.098658;  ADE_12: 0.110992;   FDE_12: 0.134860
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_94.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 95 	 Goal loss: 2.6819	  CVAE loss: 1.4740	 KLD loss: 0.0232939112	 Total: 4.1792
+Total valid scenes: 93
+Test Loss: 3.9539
+Total valid scenes: 92
+Test Loss: 3.8346
+ADE_08: 0.080145;  FDE_08: 0.097469;  ADE_12: 0.109298;   FDE_12: 0.135516
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_95.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 96 	 Goal loss: 2.4776	  CVAE loss: 1.3558	 KLD loss: 0.0210309658	 Total: 3.8544
+Total valid scenes: 93
+Test Loss: 3.9641
+Total valid scenes: 92
+Test Loss: 3.8558
+ADE_08: 0.083395;  FDE_08: 0.107507;  ADE_12: 0.114935;   FDE_12: 0.138962
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_96.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 97 	 Goal loss: 2.6804	  CVAE loss: 1.4278	 KLD loss: 0.0246569065	 Total: 4.1328
+Total valid scenes: 93
+Test Loss: 3.9348
+Total valid scenes: 92
+Test Loss: 3.8569
+ADE_08: 0.082600;  FDE_08: 0.108063;  ADE_12: 0.115340;   FDE_12: 0.141453
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_97.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 98 	 Goal loss: 2.5706	  CVAE loss: 1.3942	 KLD loss: 0.0216630115	 Total: 3.9864
+Total valid scenes: 93
+Test Loss: 3.9488
+Total valid scenes: 92
+Test Loss: 3.8562
+ADE_08: 0.080606;  FDE_08: 0.104692;  ADE_12: 0.115472;   FDE_12: 0.149978
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_98.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 99 	 Goal loss: 2.7019	  CVAE loss: 1.4740	 KLD loss: 0.0247991925	 Total: 4.2007
+Total valid scenes: 93
+Test Loss: 3.9386
+Total valid scenes: 92
+Test Loss: 3.8614
+ADE_08: 0.082403;  FDE_08: 0.104914;  ADE_12: 0.115564;   FDE_12: 0.150401
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_99.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 100 	 Goal loss: 2.4940	  CVAE loss: 1.3749	 KLD loss: 0.0215750467	 Total: 3.8905
+Total valid scenes: 93
+Test Loss: 3.9551
+Total valid scenes: 92
+Test Loss: 3.8473
+ADE_08: 0.078704;  FDE_08: 0.100933;  ADE_12: 0.112573;   FDE_12: 0.137996
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_100.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 101 	 Goal loss: 2.6444	  CVAE loss: 1.4641	 KLD loss: 0.0236855182	 Total: 4.1322
+Total valid scenes: 93
+Test Loss: 3.9644
+Total valid scenes: 92
+Test Loss: 3.8417
+ADE_08: 0.078361;  FDE_08: 0.099191;  ADE_12: 0.108156;   FDE_12: 0.131366
+
+Best model with ADE_08: 0.0784 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_101.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 102 	 Goal loss: 2.5331	  CVAE loss: 1.3842	 KLD loss: 0.0201646726	 Total: 3.9376
+Total valid scenes: 93
+Test Loss: 3.9577
+Total valid scenes: 92
+Test Loss: 3.8575
+ADE_08: 0.080717;  FDE_08: 0.102413;  ADE_12: 0.113466;   FDE_12: 0.140354
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_102.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 103 	 Goal loss: 2.4454	  CVAE loss: 1.3589	 KLD loss: 0.0195131566	 Total: 3.8239
+Total valid scenes: 93
+Epoch   103: reducing learning rate of group 0 to 8.0000e-07.
+Test Loss: 3.9715
+Total valid scenes: 92
+Test Loss: 3.8620
+ADE_08: 0.076873;  FDE_08: 0.095808;  ADE_12: 0.109080;   FDE_12: 0.134715
+
+Best model with ADE_08: 0.0769 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_103.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 104 	 Goal loss: 2.6017	  CVAE loss: 1.4241	 KLD loss: 0.0223267935	 Total: 4.0481
+Total valid scenes: 93
+Test Loss: 3.9642
+Total valid scenes: 92
+Test Loss: 3.8537
+ADE_08: 0.079661;  FDE_08: 0.098475;  ADE_12: 0.110501;   FDE_12: 0.132806
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_104.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 105 	 Goal loss: 2.4025	  CVAE loss: 1.3151	 KLD loss: 0.0194935372	 Total: 3.7371
+Total valid scenes: 93
+Test Loss: 3.9454
+Total valid scenes: 92
+Test Loss: 3.8515
+ADE_08: 0.079155;  FDE_08: 0.095984;  ADE_12: 0.110302;   FDE_12: 0.136897
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_105.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 106 	 Goal loss: 2.5589	  CVAE loss: 1.4058	 KLD loss: 0.0202988166	 Total: 3.9850
+Total valid scenes: 93
+Test Loss: 3.9521
+Total valid scenes: 92
+Test Loss: 3.8427
+ADE_08: 0.078535;  FDE_08: 0.095116;  ADE_12: 0.110482;   FDE_12: 0.138139
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_106.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 107 	 Goal loss: 2.6857	  CVAE loss: 1.4427	 KLD loss: 0.0248228303	 Total: 4.1532
+Total valid scenes: 93
+Test Loss: 3.9445
+Total valid scenes: 92
+Test Loss: 3.8542
+ADE_08: 0.080126;  FDE_08: 0.106743;  ADE_12: 0.110648;   FDE_12: 0.128104
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_107.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 108 	 Goal loss: 2.5264	  CVAE loss: 1.3877	 KLD loss: 0.0208223329	 Total: 3.9349
+Total valid scenes: 93
+Test Loss: 3.9414
+Total valid scenes: 92
+Test Loss: 3.8387
+ADE_08: 0.080445;  FDE_08: 0.100842;  ADE_12: 0.110991;   FDE_12: 0.137352
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_108.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 109 	 Goal loss: 2.5922	  CVAE loss: 1.4330	 KLD loss: 0.0216833422	 Total: 4.0469
+Total valid scenes: 93
+Epoch   109: reducing learning rate of group 0 to 1.6000e-07.
+Test Loss: 3.9544
+Total valid scenes: 92
+Test Loss: 3.8414
+ADE_08: 0.078731;  FDE_08: 0.094638;  ADE_12: 0.107827;   FDE_12: 0.132073
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_109.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 110 	 Goal loss: 2.6528	  CVAE loss: 1.4520	 KLD loss: 0.0226407475	 Total: 4.1274
+Total valid scenes: 93
+Test Loss: 3.9556
+Total valid scenes: 92
+Test Loss: 3.8541
+ADE_08: 0.078640;  FDE_08: 0.098156;  ADE_12: 0.110402;   FDE_12: 0.132471
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_110.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 111 	 Goal loss: 2.4951	  CVAE loss: 1.3758	 KLD loss: 0.0207342911	 Total: 3.8917
+Total valid scenes: 93
+Test Loss: 3.9561
+Total valid scenes: 92
+Test Loss: 3.8513
+ADE_08: 0.081608;  FDE_08: 0.102179;  ADE_12: 0.114400;   FDE_12: 0.141041
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_111.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 112 	 Goal loss: 2.5993	  CVAE loss: 1.4508	 KLD loss: 0.0231969904	 Total: 4.0734
+Total valid scenes: 93
+Test Loss: 3.9475
+Total valid scenes: 92
+Test Loss: 3.8511
+ADE_08: 0.081088;  FDE_08: 0.102065;  ADE_12: 0.112010;   FDE_12: 0.133446
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_112.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 113 	 Goal loss: 2.5739	  CVAE loss: 1.4151	 KLD loss: 0.0220595195	 Total: 4.0111
+Total valid scenes: 93
+Test Loss: 3.9373
+Total valid scenes: 92
+Test Loss: 3.8386
+ADE_08: 0.081449;  FDE_08: 0.102485;  ADE_12: 0.114021;   FDE_12: 0.146738
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_113.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 114 	 Goal loss: 2.5430	  CVAE loss: 1.3917	 KLD loss: 0.0202198700	 Total: 3.9550
+Total valid scenes: 93
+Test Loss: 3.9564
+Total valid scenes: 92
+Test Loss: 3.8664
+ADE_08: 0.083148;  FDE_08: 0.103359;  ADE_12: 0.115030;   FDE_12: 0.149334
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_114.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 115 	 Goal loss: 2.6577	  CVAE loss: 1.4646	 KLD loss: 0.0234673048	 Total: 4.1458
+Total valid scenes: 93
+Epoch   115: reducing learning rate of group 0 to 3.2000e-08.
+Test Loss: 3.9469
+Total valid scenes: 92
+Test Loss: 3.8391
+ADE_08: 0.078680;  FDE_08: 0.096116;  ADE_12: 0.111335;   FDE_12: 0.134652
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_115.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 116 	 Goal loss: 2.4932	  CVAE loss: 1.3734	 KLD loss: 0.0196454308	 Total: 3.8862
+Total valid scenes: 93
+Test Loss: 3.9546
+Total valid scenes: 92
+Test Loss: 3.8546
+ADE_08: 0.078135;  FDE_08: 0.097174;  ADE_12: 0.109204;   FDE_12: 0.131686
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_116.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 117 	 Goal loss: 2.5720	  CVAE loss: 1.4189	 KLD loss: 0.0225179583	 Total: 4.0134
+Total valid scenes: 93
+Test Loss: 3.9443
+Total valid scenes: 92
+Test Loss: 3.8392
+ADE_08: 0.079852;  FDE_08: 0.101774;  ADE_12: 0.111617;   FDE_12: 0.130493
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_117.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 118 	 Goal loss: 2.6025	  CVAE loss: 1.4130	 KLD loss: 0.0223956120	 Total: 4.0379
+Total valid scenes: 93
+Test Loss: 3.9358
+Total valid scenes: 92
+Test Loss: 3.8384
+ADE_08: 0.078893;  FDE_08: 0.098383;  ADE_12: 0.110262;   FDE_12: 0.142238
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_118.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 119 	 Goal loss: 2.5973	  CVAE loss: 1.4377	 KLD loss: 0.0237545557	 Total: 4.0588
+Total valid scenes: 93
+Test Loss: 3.9467
+Total valid scenes: 92
+Test Loss: 3.8434
+ADE_08: 0.079731;  FDE_08: 0.102384;  ADE_12: 0.112060;   FDE_12: 0.141021
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_119.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 120 	 Goal loss: 2.6574	  CVAE loss: 1.4421	 KLD loss: 0.0226479215	 Total: 4.1222
+Total valid scenes: 93
+Test Loss: 3.9570
+Total valid scenes: 92
+Test Loss: 3.8461
+ADE_08: 0.077917;  FDE_08: 0.097207;  ADE_12: 0.107885;   FDE_12: 0.124354
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_120.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 121 	 Goal loss: 2.6089	  CVAE loss: 1.4277	 KLD loss: 0.0221339026	 Total: 4.0587
+Total valid scenes: 93
+Epoch   121: reducing learning rate of group 0 to 6.4000e-09.
+Test Loss: 3.9478
+Total valid scenes: 92
+Test Loss: 3.8601
+ADE_08: 0.082212;  FDE_08: 0.101785;  ADE_12: 0.115481;   FDE_12: 0.144556
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_121.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 122 	 Goal loss: 2.6416	  CVAE loss: 1.4380	 KLD loss: 0.0240772306	 Total: 4.1037
+Total valid scenes: 93
+Test Loss: 3.9573
+Total valid scenes: 92
+Test Loss: 3.8397
+ADE_08: 0.079067;  FDE_08: 0.098477;  ADE_12: 0.110735;   FDE_12: 0.139480
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_122.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 123 	 Goal loss: 2.5340	  CVAE loss: 1.3896	 KLD loss: 0.0203132426	 Total: 3.9439
+Total valid scenes: 93
+Test Loss: 3.9477
+Total valid scenes: 92
+Test Loss: 3.8455
+ADE_08: 0.084043;  FDE_08: 0.105805;  ADE_12: 0.114173;   FDE_12: 0.139167
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_123.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 124 	 Goal loss: 2.4868	  CVAE loss: 1.3643	 KLD loss: 0.0209442249	 Total: 3.8720
+Total valid scenes: 93
+Test Loss: 3.9610
+Total valid scenes: 92
+Test Loss: 3.8428
+ADE_08: 0.080955;  FDE_08: 0.101985;  ADE_12: 0.113492;   FDE_12: 0.137249
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_124.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 125 	 Goal loss: 2.4937	  CVAE loss: 1.3604	 KLD loss: 0.0206386458	 Total: 3.8748
+Total valid scenes: 93
+Test Loss: 3.9690
+Total valid scenes: 92
+Test Loss: 3.8436
+ADE_08: 0.081858;  FDE_08: 0.104504;  ADE_12: 0.112915;   FDE_12: 0.132810
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_125.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 126 	 Goal loss: 2.6507	  CVAE loss: 1.4560	 KLD loss: 0.0228459410	 Total: 4.1296
+Total valid scenes: 93
+Test Loss: 3.9374
+Total valid scenes: 92
+Test Loss: 3.8424
+ADE_08: 0.082562;  FDE_08: 0.107329;  ADE_12: 0.114118;   FDE_12: 0.132928
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_126.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 127 	 Goal loss: 2.6901	  CVAE loss: 1.4925	 KLD loss: 0.0251683135	 Total: 4.2078
+Total valid scenes: 93
+Test Loss: 3.9584
+Total valid scenes: 92
+Test Loss: 3.8336
+ADE_08: 0.079936;  FDE_08: 0.096670;  ADE_12: 0.109874;   FDE_12: 0.133284
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_127.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 128 	 Goal loss: 2.5741	  CVAE loss: 1.4210	 KLD loss: 0.0209704344	 Total: 4.0161
+Total valid scenes: 93
+Test Loss: 3.9536
+Total valid scenes: 92
+Test Loss: 3.8568
+ADE_08: 0.079986;  FDE_08: 0.099288;  ADE_12: 0.109835;   FDE_12: 0.136057
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_128.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 129 	 Goal loss: 2.7413	  CVAE loss: 1.4983	 KLD loss: 0.0244247204	 Total: 4.2641
+Total valid scenes: 93
+Test Loss: 3.9425
+Total valid scenes: 92
+Test Loss: 3.8549
+ADE_08: 0.081806;  FDE_08: 0.110028;  ADE_12: 0.114268;   FDE_12: 0.146218
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_129.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 130 	 Goal loss: 2.6216	  CVAE loss: 1.4460	 KLD loss: 0.0221096784	 Total: 4.0898
+Total valid scenes: 93
+Test Loss: 3.9311
+Total valid scenes: 92
+Test Loss: 3.8553
+ADE_08: 0.081060;  FDE_08: 0.100312;  ADE_12: 0.114403;   FDE_12: 0.147400
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_130.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 131 	 Goal loss: 2.5115	  CVAE loss: 1.3834	 KLD loss: 0.0188209193	 Total: 3.9137
+Total valid scenes: 93
+Test Loss: 3.9533
+Total valid scenes: 92
+Test Loss: 3.8389
+ADE_08: 0.080090;  FDE_08: 0.100401;  ADE_12: 0.113017;   FDE_12: 0.135255
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_131.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 132 	 Goal loss: 2.5878	  CVAE loss: 1.4015	 KLD loss: 0.0239021236	 Total: 4.0132
+Total valid scenes: 93
+Test Loss: 3.9654
+Total valid scenes: 92
+Test Loss: 3.8472
+ADE_08: 0.079575;  FDE_08: 0.097888;  ADE_12: 0.112876;   FDE_12: 0.144645
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_132.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 133 	 Goal loss: 2.5170	  CVAE loss: 1.3895	 KLD loss: 0.0199126425	 Total: 3.9264
+Total valid scenes: 93
+Test Loss: 3.9385
+Total valid scenes: 92
+Test Loss: 3.8389
+ADE_08: 0.076793;  FDE_08: 0.093038;  ADE_12: 0.106796;   FDE_12: 0.125228
+
+Best model with ADE_08: 0.0768 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_133.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 134 	 Goal loss: 2.6573	  CVAE loss: 1.4607	 KLD loss: 0.0227662712	 Total: 4.1407
+Total valid scenes: 93
+Test Loss: 3.9681
+Total valid scenes: 92
+Test Loss: 3.8432
+ADE_08: 0.082088;  FDE_08: 0.104800;  ADE_12: 0.113591;   FDE_12: 0.134599
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_134.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 135 	 Goal loss: 2.5690	  CVAE loss: 1.4329	 KLD loss: 0.0207354578	 Total: 4.0226
+Total valid scenes: 93
+Test Loss: 3.9569
+Total valid scenes: 92
+Test Loss: 3.8547
+ADE_08: 0.080178;  FDE_08: 0.102642;  ADE_12: 0.114638;   FDE_12: 0.149551
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_135.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 136 	 Goal loss: 2.5616	  CVAE loss: 1.4041	 KLD loss: 0.0203683114	 Total: 3.9861
+Total valid scenes: 93
+Test Loss: 3.9549
+Total valid scenes: 92
+Test Loss: 3.8340
+ADE_08: 0.080092;  FDE_08: 0.098388;  ADE_12: 0.110492;   FDE_12: 0.132486
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_136.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 137 	 Goal loss: 2.5510	  CVAE loss: 1.4069	 KLD loss: 0.0202386525	 Total: 3.9781
+Total valid scenes: 93
+Test Loss: 3.9638
+Total valid scenes: 92
+Test Loss: 3.8426
+ADE_08: 0.079460;  FDE_08: 0.099253;  ADE_12: 0.110491;   FDE_12: 0.135402
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_137.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 138 	 Goal loss: 2.6031	  CVAE loss: 1.4281	 KLD loss: 0.0216895141	 Total: 4.0528
+Total valid scenes: 93
+Test Loss: 3.9583
+Total valid scenes: 92
+Test Loss: 3.8600
+ADE_08: 0.081868;  FDE_08: 0.105653;  ADE_12: 0.113221;   FDE_12: 0.136417
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_138.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 139 	 Goal loss: 2.5656	  CVAE loss: 1.4223	 KLD loss: 0.0209515869	 Total: 4.0088
+Total valid scenes: 93
+Test Loss: 3.9540
+Total valid scenes: 92
+Test Loss: 3.8522
+ADE_08: 0.077594;  FDE_08: 0.091286;  ADE_12: 0.106593;   FDE_12: 0.123755
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_139.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 140 	 Goal loss: 2.6005	  CVAE loss: 1.4411	 KLD loss: 0.0234415782	 Total: 4.0650
+Total valid scenes: 93
+Test Loss: 3.9710
+Total valid scenes: 92
+Test Loss: 3.8454
+ADE_08: 0.080122;  FDE_08: 0.099609;  ADE_12: 0.112587;   FDE_12: 0.141062
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_140.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 141 	 Goal loss: 2.6443	  CVAE loss: 1.4484	 KLD loss: 0.0226869723	 Total: 4.1154
+Total valid scenes: 93
+Test Loss: 3.9468
+Total valid scenes: 92
+Test Loss: 3.8574
+ADE_08: 0.081987;  FDE_08: 0.097177;  ADE_12: 0.112433;   FDE_12: 0.141824
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_141.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 142 	 Goal loss: 2.6543	  CVAE loss: 1.4462	 KLD loss: 0.0229104961	 Total: 4.1234
+Total valid scenes: 93
+Test Loss: 3.9363
+Total valid scenes: 92
+Test Loss: 3.8448
+ADE_08: 0.079761;  FDE_08: 0.100238;  ADE_12: 0.111864;   FDE_12: 0.138581
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_142.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 143 	 Goal loss: 2.4941	  CVAE loss: 1.3762	 KLD loss: 0.0205958803	 Total: 3.8909
+Total valid scenes: 93
+Test Loss: 3.9556
+Total valid scenes: 92
+Test Loss: 3.8405
+ADE_08: 0.078266;  FDE_08: 0.099512;  ADE_12: 0.111330;   FDE_12: 0.131248
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_143.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 144 	 Goal loss: 2.6428	  CVAE loss: 1.4235	 KLD loss: 0.0228055192	 Total: 4.0891
+Total valid scenes: 93
+Test Loss: 3.9553
+Total valid scenes: 92
+Test Loss: 3.8490
+ADE_08: 0.081817;  FDE_08: 0.106320;  ADE_12: 0.112530;   FDE_12: 0.134791
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_144.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 145 	 Goal loss: 2.6103	  CVAE loss: 1.4407	 KLD loss: 0.0222251798	 Total: 4.0732
+Total valid scenes: 93
+Test Loss: 3.9380
+Total valid scenes: 92
+Test Loss: 3.8387
+ADE_08: 0.077676;  FDE_08: 0.095331;  ADE_12: 0.107151;   FDE_12: 0.133344
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_145.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 146 	 Goal loss: 2.4695	  CVAE loss: 1.3704	 KLD loss: 0.0199482152	 Total: 3.8599
+Total valid scenes: 93
+Test Loss: 3.9387
+Total valid scenes: 92
+Test Loss: 3.8218
+ADE_08: 0.078075;  FDE_08: 0.100274;  ADE_12: 0.111604;   FDE_12: 0.132544
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_146.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 147 	 Goal loss: 2.5033	  CVAE loss: 1.3793	 KLD loss: 0.0200797011	 Total: 3.9026
+Total valid scenes: 93
+Test Loss: 3.9532
+Total valid scenes: 92
+Test Loss: 3.8418
+ADE_08: 0.079359;  FDE_08: 0.095301;  ADE_12: 0.112740;   FDE_12: 0.142822
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_147.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 148 	 Goal loss: 2.5479	  CVAE loss: 1.4038	 KLD loss: 0.0214764833	 Total: 3.9731
+Total valid scenes: 93
+Test Loss: 3.9667
+Total valid scenes: 92
+Test Loss: 3.8418
+ADE_08: 0.082052;  FDE_08: 0.103563;  ADE_12: 0.114382;   FDE_12: 0.144617
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_148.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 149 	 Goal loss: 2.6353	  CVAE loss: 1.4274	 KLD loss: 0.0232536366	 Total: 4.0860
+Total valid scenes: 93
+Test Loss: 3.9364
+Total valid scenes: 92
+Test Loss: 3.8536
+ADE_08: 0.081522;  FDE_08: 0.102745;  ADE_12: 0.112903;   FDE_12: 0.138681
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_149.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 150 	 Goal loss: 2.6006	  CVAE loss: 1.4359	 KLD loss: 0.0217901284	 Total: 4.0583
+Total valid scenes: 93
+Test Loss: 3.9545
+Total valid scenes: 92
+Test Loss: 3.8468
+ADE_08: 0.079023;  FDE_08: 0.097008;  ADE_12: 0.109854;   FDE_12: 0.126813
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_150.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 151 	 Goal loss: 2.6284	  CVAE loss: 1.4373	 KLD loss: 0.0227710793	 Total: 4.0885
+Total valid scenes: 93
+Test Loss: 3.9496
+Total valid scenes: 92
+Test Loss: 3.8487
+ADE_08: 0.078971;  FDE_08: 0.099265;  ADE_12: 0.110798;   FDE_12: 0.134095
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_151.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 152 	 Goal loss: 2.6346	  CVAE loss: 1.4308	 KLD loss: 0.0220860405	 Total: 4.0875
+Total valid scenes: 93
+Test Loss: 3.9437
+Total valid scenes: 92
+Test Loss: 3.8313
+ADE_08: 0.081574;  FDE_08: 0.100124;  ADE_12: 0.113147;   FDE_12: 0.144912
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_152.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 153 	 Goal loss: 2.8055	  CVAE loss: 1.5386	 KLD loss: 0.0246323294	 Total: 4.3688
+Total valid scenes: 93
+Test Loss: 3.9467
+Total valid scenes: 92
+Test Loss: 3.8371
+ADE_08: 0.083788;  FDE_08: 0.106675;  ADE_12: 0.115046;   FDE_12: 0.145427
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_153.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 154 	 Goal loss: 2.5846	  CVAE loss: 1.3952	 KLD loss: 0.0229196096	 Total: 4.0027
+Total valid scenes: 93
+Test Loss: 3.9466
+Total valid scenes: 92
+Test Loss: 3.8371
+ADE_08: 0.079650;  FDE_08: 0.102256;  ADE_12: 0.112522;   FDE_12: 0.137440
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_154.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 155 	 Goal loss: 2.6048	  CVAE loss: 1.4217	 KLD loss: 0.0219329502	 Total: 4.0484
+Total valid scenes: 93
+Test Loss: 3.9453
+Total valid scenes: 92
+Test Loss: 3.8288
+ADE_08: 0.083073;  FDE_08: 0.104724;  ADE_12: 0.113548;   FDE_12: 0.139967
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_155.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 156 	 Goal loss: 2.6995	  CVAE loss: 1.4700	 KLD loss: 0.0232452545	 Total: 4.1927
+Total valid scenes: 93
+Test Loss: 3.9658
+Total valid scenes: 92
+Test Loss: 3.8373
+ADE_08: 0.080411;  FDE_08: 0.104200;  ADE_12: 0.111627;   FDE_12: 0.131256
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_156.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 157 	 Goal loss: 2.6729	  CVAE loss: 1.4579	 KLD loss: 0.0230390567	 Total: 4.1538
+Total valid scenes: 93
+Test Loss: 3.9455
+Total valid scenes: 92
+Test Loss: 3.8599
+ADE_08: 0.080324;  FDE_08: 0.103205;  ADE_12: 0.112617;   FDE_12: 0.140120
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_157.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 158 	 Goal loss: 2.5668	  CVAE loss: 1.4096	 KLD loss: 0.0217534444	 Total: 3.9981
+Total valid scenes: 93
+Test Loss: 3.9419
+Total valid scenes: 92
+Test Loss: 3.8410
+ADE_08: 0.082063;  FDE_08: 0.106176;  ADE_12: 0.111056;   FDE_12: 0.134271
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_158.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 159 	 Goal loss: 2.6098	  CVAE loss: 1.4195	 KLD loss: 0.0223164226	 Total: 4.0516
+Total valid scenes: 93
+Test Loss: 3.9491
+Total valid scenes: 92
+Test Loss: 3.8662
+ADE_08: 0.079094;  FDE_08: 0.096348;  ADE_12: 0.111546;   FDE_12: 0.145617
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_159.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 160 	 Goal loss: 2.5462	  CVAE loss: 1.4294	 KLD loss: 0.0210379155	 Total: 3.9966
+Total valid scenes: 93
+Test Loss: 3.9649
+Total valid scenes: 92
+Test Loss: 3.8434
+ADE_08: 0.080144;  FDE_08: 0.099317;  ADE_12: 0.111082;   FDE_12: 0.133528
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_160.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 161 	 Goal loss: 2.4937	  CVAE loss: 1.3781	 KLD loss: 0.0202965139	 Total: 3.8921
+Total valid scenes: 93
+Test Loss: 3.9520
+Total valid scenes: 92
+Test Loss: 3.8427
+ADE_08: 0.079479;  FDE_08: 0.101110;  ADE_12: 0.111653;   FDE_12: 0.135487
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_161.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 162 	 Goal loss: 2.7207	  CVAE loss: 1.4836	 KLD loss: 0.0244623816	 Total: 4.2288
+Total valid scenes: 93
+Test Loss: 3.9521
+Total valid scenes: 92
+Test Loss: 3.8431
+ADE_08: 0.080615;  FDE_08: 0.100680;  ADE_12: 0.112053;   FDE_12: 0.138204
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_162.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 163 	 Goal loss: 2.6036	  CVAE loss: 1.4334	 KLD loss: 0.0214409974	 Total: 4.0584
+Total valid scenes: 93
+Test Loss: 3.9396
+Total valid scenes: 92
+Test Loss: 3.8453
+ADE_08: 0.078343;  FDE_08: 0.097474;  ADE_12: 0.109103;   FDE_12: 0.132141
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_163.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 164 	 Goal loss: 2.4923	  CVAE loss: 1.3587	 KLD loss: 0.0206855897	 Total: 3.8717
+Total valid scenes: 93
+Test Loss: 3.9535
+Total valid scenes: 92
+Test Loss: 3.8550
+ADE_08: 0.082701;  FDE_08: 0.108599;  ADE_12: 0.116933;   FDE_12: 0.147881
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_164.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 165 	 Goal loss: 2.5993	  CVAE loss: 1.4233	 KLD loss: 0.0208344992	 Total: 4.0434
+Total valid scenes: 93
+Test Loss: 3.9591
+Total valid scenes: 92
+Test Loss: 3.8430
+ADE_08: 0.081856;  FDE_08: 0.106165;  ADE_12: 0.115724;   FDE_12: 0.145928
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_165.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 166 	 Goal loss: 2.6904	  CVAE loss: 1.4465	 KLD loss: 0.0233908103	 Total: 4.1603
+Total valid scenes: 93
+Test Loss: 3.9605
+Total valid scenes: 92
+Test Loss: 3.8176
+ADE_08: 0.077409;  FDE_08: 0.098877;  ADE_12: 0.108858;   FDE_12: 0.131275
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_166.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 167 	 Goal loss: 2.6853	  CVAE loss: 1.4740	 KLD loss: 0.0228476923	 Total: 4.1822
+Total valid scenes: 93
+Test Loss: 3.9577
+Total valid scenes: 92
+Test Loss: 3.8431
+ADE_08: 0.079270;  FDE_08: 0.096717;  ADE_12: 0.110209;   FDE_12: 0.133852
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_167.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 168 	 Goal loss: 2.5831	  CVAE loss: 1.4131	 KLD loss: 0.0207466363	 Total: 4.0170
+Total valid scenes: 93
+Test Loss: 3.9423
+Total valid scenes: 92
+Test Loss: 3.8316
+ADE_08: 0.080061;  FDE_08: 0.102104;  ADE_12: 0.112745;   FDE_12: 0.135980
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_168.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 169 	 Goal loss: 2.6279	  CVAE loss: 1.4496	 KLD loss: 0.0207433768	 Total: 4.0983
+Total valid scenes: 93
+Test Loss: 3.9416
+Total valid scenes: 92
+Test Loss: 3.8397
+ADE_08: 0.082630;  FDE_08: 0.103788;  ADE_12: 0.113731;   FDE_12: 0.140326
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_169.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 170 	 Goal loss: 2.6438	  CVAE loss: 1.4545	 KLD loss: 0.0226253548	 Total: 4.1210
+Total valid scenes: 93
+Test Loss: 3.9576
+Total valid scenes: 92
+Test Loss: 3.8342
+ADE_08: 0.080102;  FDE_08: 0.099927;  ADE_12: 0.113296;   FDE_12: 0.147324
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_170.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 171 	 Goal loss: 2.5843	  CVAE loss: 1.4097	 KLD loss: 0.0209700904	 Total: 4.0149
+Total valid scenes: 93
+Test Loss: 3.9387
+Total valid scenes: 92
+Test Loss: 3.8458
+ADE_08: 0.078183;  FDE_08: 0.096362;  ADE_12: 0.108291;   FDE_12: 0.127190
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_171.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 172 	 Goal loss: 2.6949	  CVAE loss: 1.4602	 KLD loss: 0.0240087428	 Total: 4.1791
+Total valid scenes: 93
+Test Loss: 3.9430
+Total valid scenes: 92
+Test Loss: 3.8540
+ADE_08: 0.080114;  FDE_08: 0.097768;  ADE_12: 0.110616;   FDE_12: 0.133476
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_172.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 173 	 Goal loss: 2.6401	  CVAE loss: 1.4541	 KLD loss: 0.0221090626	 Total: 4.1163
+Total valid scenes: 93
+Test Loss: 3.9477
+Total valid scenes: 92
+Test Loss: 3.8315
+ADE_08: 0.080523;  FDE_08: 0.102638;  ADE_12: 0.111620;   FDE_12: 0.133488
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_173.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 174 	 Goal loss: 2.5808	  CVAE loss: 1.4233	 KLD loss: 0.0217278503	 Total: 4.0258
+Total valid scenes: 93
+Test Loss: 3.9473
+Total valid scenes: 92
+Test Loss: 3.8493
+ADE_08: 0.082104;  FDE_08: 0.101925;  ADE_12: 0.114204;   FDE_12: 0.138873
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_174.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 175 	 Goal loss: 2.6212	  CVAE loss: 1.4391	 KLD loss: 0.0213772705	 Total: 4.0817
+Total valid scenes: 93
+Test Loss: 3.9569
+Total valid scenes: 92
+Test Loss: 3.8460
+ADE_08: 0.077682;  FDE_08: 0.094336;  ADE_12: 0.107594;   FDE_12: 0.120861
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_175.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 176 	 Goal loss: 2.6547	  CVAE loss: 1.4318	 KLD loss: 0.0243479555	 Total: 4.1108
+Total valid scenes: 93
+Test Loss: 3.9511
+Total valid scenes: 92
+Test Loss: 3.8419
+ADE_08: 0.080965;  FDE_08: 0.099585;  ADE_12: 0.111787;   FDE_12: 0.129819
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_176.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 177 	 Goal loss: 2.6481	  CVAE loss: 1.4432	 KLD loss: 0.0222416268	 Total: 4.1136
+Total valid scenes: 93
+Test Loss: 3.9302
+Total valid scenes: 92
+Test Loss: 3.8241
+ADE_08: 0.076146;  FDE_08: 0.092723;  ADE_12: 0.104762;   FDE_12: 0.126350
+
+Best model with ADE_08: 0.0761 saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/best_model_ADE_08.pt
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_177.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 178 	 Goal loss: 2.6362	  CVAE loss: 1.4492	 KLD loss: 0.0223379205	 Total: 4.1077
+Total valid scenes: 93
+Test Loss: 3.9424
+Total valid scenes: 92
+Test Loss: 3.8468
+ADE_08: 0.079448;  FDE_08: 0.096921;  ADE_12: 0.110811;   FDE_12: 0.141930
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_178.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 179 	 Goal loss: 2.6193	  CVAE loss: 1.4457	 KLD loss: 0.0222817092	 Total: 4.0872
+Total valid scenes: 93
+Test Loss: 3.9473
+Total valid scenes: 92
+Test Loss: 3.8438
+ADE_08: 0.080446;  FDE_08: 0.097604;  ADE_12: 0.113169;   FDE_12: 0.140570
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_179.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 180 	 Goal loss: 2.7478	  CVAE loss: 1.4797	 KLD loss: 0.0237662732	 Total: 4.2513
+Total valid scenes: 93
+Test Loss: 3.9622
+Total valid scenes: 92
+Test Loss: 3.8480
+ADE_08: 0.079833;  FDE_08: 0.098014;  ADE_12: 0.109698;   FDE_12: 0.133583
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_180.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 181 	 Goal loss: 2.5150	  CVAE loss: 1.4010	 KLD loss: 0.0203835938	 Total: 3.9364
+Total valid scenes: 93
+Test Loss: 3.9613
+Total valid scenes: 92
+Test Loss: 3.8532
+ADE_08: 0.083237;  FDE_08: 0.107123;  ADE_12: 0.115902;   FDE_12: 0.143392
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_181.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 182 	 Goal loss: 2.6510	  CVAE loss: 1.4443	 KLD loss: 0.0229500706	 Total: 4.1182
+Total valid scenes: 93
+Test Loss: 3.9400
+Total valid scenes: 92
+Test Loss: 3.8300
+ADE_08: 0.081802;  FDE_08: 0.105590;  ADE_12: 0.112390;   FDE_12: 0.135278
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_182.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 183 	 Goal loss: 2.6511	  CVAE loss: 1.4515	 KLD loss: 0.0247810067	 Total: 4.1274
+Total valid scenes: 93
+Test Loss: 3.9686
+Total valid scenes: 92
+Test Loss: 3.8394
+ADE_08: 0.079796;  FDE_08: 0.101053;  ADE_12: 0.111531;   FDE_12: 0.136046
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_183.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 184 	 Goal loss: 2.5637	  CVAE loss: 1.4274	 KLD loss: 0.0206877031	 Total: 4.0118
+Total valid scenes: 93
+Test Loss: 3.9626
+Total valid scenes: 92
+Test Loss: 3.8490
+ADE_08: 0.079041;  FDE_08: 0.100622;  ADE_12: 0.109638;   FDE_12: 0.132983
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_184.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 185 	 Goal loss: 2.5833	  CVAE loss: 1.4003	 KLD loss: 0.0221039841	 Total: 4.0057
+Total valid scenes: 93
+Test Loss: 3.9589
+Total valid scenes: 92
+Test Loss: 3.8386
+ADE_08: 0.081858;  FDE_08: 0.103193;  ADE_12: 0.111576;   FDE_12: 0.134299
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_185.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 186 	 Goal loss: 2.7307	  CVAE loss: 1.4791	 KLD loss: 0.0231128421	 Total: 4.2329
+Total valid scenes: 93
+Test Loss: 3.9404
+Total valid scenes: 92
+Test Loss: 3.8473
+ADE_08: 0.079473;  FDE_08: 0.096715;  ADE_12: 0.110398;   FDE_12: 0.128386
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_186.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 187 	 Goal loss: 2.5768	  CVAE loss: 1.4148	 KLD loss: 0.0204673929	 Total: 4.0121
+Total valid scenes: 93
+Test Loss: 3.9479
+Total valid scenes: 92
+Test Loss: 3.8596
+ADE_08: 0.081185;  FDE_08: 0.103368;  ADE_12: 0.111351;   FDE_12: 0.133398
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_187.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 188 	 Goal loss: 2.4223	  CVAE loss: 1.3444	 KLD loss: 0.0176505062	 Total: 3.7844
+Total valid scenes: 93
+Test Loss: 3.9516
+Total valid scenes: 92
+Test Loss: 3.8543
+ADE_08: 0.080804;  FDE_08: 0.100419;  ADE_12: 0.110919;   FDE_12: 0.133550
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_188.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 189 	 Goal loss: 2.7242	  CVAE loss: 1.4922	 KLD loss: 0.0242806257	 Total: 4.2407
+Total valid scenes: 93
+Test Loss: 3.9420
+Total valid scenes: 92
+Test Loss: 3.8416
+ADE_08: 0.080497;  FDE_08: 0.099336;  ADE_12: 0.111647;   FDE_12: 0.134942
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_189.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 190 	 Goal loss: 2.6559	  CVAE loss: 1.4578	 KLD loss: 0.0212686685	 Total: 4.1350
+Total valid scenes: 93
+Test Loss: 3.9714
+Total valid scenes: 92
+Test Loss: 3.8350
+ADE_08: 0.082048;  FDE_08: 0.099969;  ADE_12: 0.112321;   FDE_12: 0.138710
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_190.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 191 	 Goal loss: 2.5597	  CVAE loss: 1.3931	 KLD loss: 0.0221316864	 Total: 3.9749
+Total valid scenes: 93
+Test Loss: 3.9507
+Total valid scenes: 92
+Test Loss: 3.8638
+ADE_08: 0.082856;  FDE_08: 0.107296;  ADE_12: 0.112631;   FDE_12: 0.139409
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_191.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 192 	 Goal loss: 2.6289	  CVAE loss: 1.4300	 KLD loss: 0.0208933336	 Total: 4.0798
+Total valid scenes: 93
+Test Loss: 3.9398
+Total valid scenes: 92
+Test Loss: 3.8447
+ADE_08: 0.083146;  FDE_08: 0.107085;  ADE_12: 0.115001;   FDE_12: 0.139820
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_192.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 193 	 Goal loss: 2.5816	  CVAE loss: 1.4086	 KLD loss: 0.0210534360	 Total: 4.0113
+Total valid scenes: 93
+Test Loss: 3.9659
+Total valid scenes: 92
+Test Loss: 3.8398
+ADE_08: 0.078059;  FDE_08: 0.096893;  ADE_12: 0.108595;   FDE_12: 0.129452
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_193.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 194 	 Goal loss: 2.7462	  CVAE loss: 1.5044	 KLD loss: 0.0248357047	 Total: 4.2755
+Total valid scenes: 93
+Test Loss: 3.9389
+Total valid scenes: 92
+Test Loss: 3.8466
+ADE_08: 0.077091;  FDE_08: 0.091678;  ADE_12: 0.109351;   FDE_12: 0.128626
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_194.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 195 	 Goal loss: 2.6440	  CVAE loss: 1.4541	 KLD loss: 0.0229283730	 Total: 4.1210
+Total valid scenes: 93
+Test Loss: 3.9606
+Total valid scenes: 92
+Test Loss: 3.8643
+ADE_08: 0.084436;  FDE_08: 0.112830;  ADE_12: 0.118382;   FDE_12: 0.151744
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_195.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 196 	 Goal loss: 2.5795	  CVAE loss: 1.4108	 KLD loss: 0.0204745305	 Total: 4.0108
+Total valid scenes: 93
+Test Loss: 3.9586
+Total valid scenes: 92
+Test Loss: 3.8454
+ADE_08: 0.083421;  FDE_08: 0.104661;  ADE_12: 0.115767;   FDE_12: 0.138277
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_196.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 197 	 Goal loss: 2.5722	  CVAE loss: 1.4086	 KLD loss: 0.0226241314	 Total: 4.0034
+Total valid scenes: 93
+Test Loss: 3.9567
+Total valid scenes: 92
+Test Loss: 3.8463
+ADE_08: 0.083733;  FDE_08: 0.111052;  ADE_12: 0.115282;   FDE_12: 0.140033
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_197.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 198 	 Goal loss: 2.5867	  CVAE loss: 1.4328	 KLD loss: 0.0219229672	 Total: 4.0414
+Total valid scenes: 93
+Test Loss: 3.9518
+Total valid scenes: 92
+Test Loss: 3.8497
+ADE_08: 0.080987;  FDE_08: 0.098668;  ADE_12: 0.112710;   FDE_12: 0.140260
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_198.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 199 	 Goal loss: 2.6451	  CVAE loss: 1.4559	 KLD loss: 0.0215394807	 Total: 4.1226
+Total valid scenes: 93
+Test Loss: 3.9660
+Total valid scenes: 92
+Test Loss: 3.8219
+ADE_08: 0.080744;  FDE_08: 0.101126;  ADE_12: 0.112362;   FDE_12: 0.134866
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_199.pt
+Number of training samples: 188
+Total valid scenes: 445
+Train Epoch: 200 	 Goal loss: 2.6734	  CVAE loss: 1.4815	 KLD loss: 0.0243416217	 Total: 4.1793
+Total valid scenes: 93
+Test Loss: 3.9455
+Total valid scenes: 92
+Test Loss: 3.8474
+ADE_08: 0.078614;  FDE_08: 0.095586;  ADE_12: 0.112387;   FDE_12: 0.147815
+
+Model saved to tools/ethucy/checkpoints/DAIR/Social_SGNet_CVAE/0.5/1/model_epoch_200.pt
