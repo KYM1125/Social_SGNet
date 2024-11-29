@@ -6,9 +6,9 @@
 
 目前打包好的 `train`、`val`、`test` 数据集分别位于以下文件夹中：
 
-- `kym/SGNet/SGNet/SGNet/SGNet.pytorch/data/DAIR/dair/train`
-- `kym/SGNet/SGNet/SGNet/SGNet.pytorch/data/DAIR/dair/val`
-- `kym/SGNet/SGNet/SGNet/SGNet.pytorch/data/DAIR/dair/test`
+- `../SGNet/SGNet/SGNet/SGNet.pytorch/data/DAIR/dair/train`
+- `../SGNet/SGNet/SGNet/SGNet.pytorch/data/DAIR/dair/val`
+- `../SGNet/SGNet/SGNet/SGNet.pytorch/data/DAIR/dair/test`
 
 如果需要重新制作数据集 `pkl` 文件，请遵循以下步骤：
 
